@@ -1,0 +1,3 @@
+C:\Users\sotom\Documents\dev\c#\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+C:\Users\sotom\Documents\dev\c#\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\sotom\Documents\dev\c#\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs

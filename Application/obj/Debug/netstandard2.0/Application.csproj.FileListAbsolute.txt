@@ -6,3 +6,8 @@ C:\Users\sotom\Documents\dev\c#\Reactivities\Application\obj\Debug\netstandard2.
 C:\Users\sotom\Documents\dev\c#\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
 C:\Users\sotom\Documents\dev\c#\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
 C:\Users\sotom\Documents\dev\c#\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\sotom\Documents\dev\c#\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\sotom\Documents\dev\c#\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\sotom\Documents\dev\c#\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\sotom\Documents\dev\c#\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\sotom\Documents\dev\c#\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete

@@ -36,3 +36,7 @@ C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Microso
 C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sotom\Documents\dev\c#\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.pdb
